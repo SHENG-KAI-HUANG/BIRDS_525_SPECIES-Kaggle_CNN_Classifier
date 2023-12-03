@@ -1,3 +1,5 @@
+# KaggleDataset_BIRDS_525_SPECIES CNN Classifier
+
 This is a side non-profit project, created purely personal interest.
 The main task of this project is to classify bird species.
 
@@ -11,4 +13,4 @@ The dataset URL：https://www.kaggle.com/datasets/gpiosenka/100-bird-species/dis
 
 Thanks to Mr. Gerald Piosenka, who providing a high-quality bird dataset.
 
-# KaggleDataset_BIRDS_525_SPECIES
+
