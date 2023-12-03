@@ -4,7 +4,7 @@ This is a side non-profit project, created purely personal interest.
 The main task of this project is to classify bird species.
 
 Here is some example in this dataset：
-| IVORY GULL (象牙鷗) | LIMPKIN (秧鶴) | LIMPKIN (八哥) |
+| IVORY GULL (象牙鷗) | LIMPKIN (秧鶴) | MYNA (八哥) |
 | ------------- | ------------- | ------------- |
 | ![image](https://github.com/SHENG-KAI-HUANG/KaggleDataset_BIRDS_525_SPECIES/blob/main/sampleImage/IVORY%20GULL_002.jpg)  | ![image](https://github.com/SHENG-KAI-HUANG/KaggleDataset_BIRDS_525_SPECIES/blob/main/sampleImage/LIMPKIN_003.jpg)   | ![image](https://github.com/SHENG-KAI-HUANG/KaggleDataset_BIRDS_525_SPECIES/blob/main/sampleImage/MYNA_010.jpg)  |
 
