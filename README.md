@@ -13,8 +13,8 @@ The dataset URL：https://www.kaggle.com/datasets/gpiosenka/100-bird-species/dis
   
 Special thanks to Mr. Gerald Piosenka, who providing a high-quality bird dataset.
 
-First try is using EfficientNet-B4 [1], test accuracy about 98%
+First try is using EfficientNet-B4 [1], test accuracy about 98%  
 training screen print：  
-![image]([https://github.com/SHENG-KAI-HUANG/KaggleDataset_BIRDS_525_SPECIES/blob/main/sampleImage/IVORY%20GULL_002.jpg](https://github.com/SHENG-KAI-HUANG/BIRDS_525_SPECIES-Kaggle_CNN_Classifier/blob/main/result/EfficientNet-B4/EfficientNet-B4_TrainingResultScreenPrint.png)https://github.com/SHENG-KAI-HUANG/BIRDS_525_SPECIES-Kaggle_CNN_Classifier/blob/main/result/EfficientNet-B4/EfficientNet-B4_TrainingResultScreenPrint.png)
+![image](https://github.com/SHENG-KAI-HUANG/BIRDS_525_SPECIES-Kaggle_CNN_Classifier/blob/main/result/EfficientNet-B4/EfficientNet-B4_TrainingResultScreenPrint.png)
   
 [1] Tan, Mingxing and Quoc V. Le. “EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks.” ArXiv abs/1905.11946 (2019): n. pag.
