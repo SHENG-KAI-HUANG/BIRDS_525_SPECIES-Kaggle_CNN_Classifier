@@ -111,7 +111,7 @@ for epoch in range(0, trainEpoch):
                     accuracy = correct / batch_size
                     
                     accumulateCorrect += correct
-                    accumulateSize = batch_size
+                    accumulateSize += batch_size
 
                     progressBarLoader.set_postfix(loss=running_loss, accuracy=100. * accuracy,
                                                   accumuAccuracy=100. * (accumulateCorrect / accumulateSize))
