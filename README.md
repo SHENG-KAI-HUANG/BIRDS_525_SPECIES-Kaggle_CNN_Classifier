@@ -1,6 +1,6 @@
 # KaggleDataset_BIRDS_525_SPECIES CNN Classifier
 
-This is a side non-profit project, created purely personal interest.
+This is a side non-profit project, created purely personal interest.  
 The main task of this project is to classify bird species.
 
 Here is some example in this dataset：
