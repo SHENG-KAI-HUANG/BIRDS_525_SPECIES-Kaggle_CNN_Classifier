@@ -14,6 +14,9 @@ The dataset URL：https://www.kaggle.com/datasets/gpiosenka/100-bird-species/dis
 Special thanks to Mr. Gerald Piosenka, who providing a high-quality bird dataset.
 
 Using EfficientNet-B4 [1], test accuracy about 98%  
+  
+Usage ： python code/tradition/classifier.py -n efficientnet-b4 -m /result/EfficientNet-B4/trainComplete.parm -i [single image path]  
+  
 training screen print：  
 ![image](https://github.com/SHENG-KAI-HUANG/BIRDS_525_SPECIES-Kaggle_CNN_Classifier/blob/main/result/EfficientNet-B4/EfficientNet-B4_TrainingResultScreenPrint.png)
   
