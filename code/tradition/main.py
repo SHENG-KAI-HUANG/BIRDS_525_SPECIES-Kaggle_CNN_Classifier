@@ -79,10 +79,10 @@ for epoch in range(0, trainEpoch):
             running_loss += loss.item()
             
             correct = (torch.argmax(outputs, dim=1) == labels).sum().item()
-            accuracy = correct / batch_size
+            accuracy = correct / imgs.shape[0]
             
             accumulateCorrect += correct
-            accumulateSize += batch_size
+            accumulateSize += imgs.shape[0]
                 
             progressBarLoader.set_postfix(loss=running_loss, accuracy=100. * accuracy, 
                                           accumuAccuracy=100. * (accumulateCorrect / accumulateSize))
@@ -108,10 +108,10 @@ for epoch in range(0, trainEpoch):
                     running_loss += loss.item()
 
                     correct = (torch.argmax(outputs,  dim=1) == labels).sum().item()
-                    accuracy = correct / batch_size
+                    accuracy = correct / imgs.shape[0]
                     
                     accumulateCorrect += correct
-                    accumulateSize += batch_size
+                    accumulateSize += imgs.shape[0]
 
                     progressBarLoader.set_postfix(loss=running_loss, accuracy=100. * accuracy,
                                                   accumuAccuracy=100. * (accumulateCorrect / accumulateSize))
