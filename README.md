@@ -11,7 +11,7 @@ Here is some example in this dataset：
 Birds are really cute right? If you're interested, please explore "BIRDS 525 SPECIES- IMAGE CLASSIFICATION" datasets to find more images.  
 The dataset URL：https://www.kaggle.com/datasets/gpiosenka/100-bird-species/discussion/456917  
   
-Using EfficientNet-B4 [1], test accuracy about 98%  
+Using EfficientNet-B4 [1], test accuracy about 98.4%  
 __Usage of trained model ：  
 python ./code/tradition/classifier.py -n efficientnet-b4 -m /result/EfficientNet-B4/trainComplete.parm -i [single image path]__  
   
