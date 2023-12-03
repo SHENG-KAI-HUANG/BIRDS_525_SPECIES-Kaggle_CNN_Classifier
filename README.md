@@ -12,7 +12,7 @@ Birds are really cute right? If you're interested, please explore "BIRDS 525 SPE
 The dataset URL：https://www.kaggle.com/datasets/gpiosenka/100-bird-species/discussion/456917  
   
 Using EfficientNet-B4 [1], test accuracy about 98%  
-__Usage Trained model ：  
+__Usage of trained model ：  
 python ./code/tradition/classifier.py -n efficientnet-b4 -m /result/EfficientNet-B4/trainComplete.parm -i [single image path]__  
   
 Special thanks to Mr. Gerald Piosenka, who providing a high-quality bird dataset.
