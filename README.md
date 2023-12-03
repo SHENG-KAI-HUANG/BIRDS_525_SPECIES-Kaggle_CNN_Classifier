@@ -17,4 +17,5 @@ First try is using EfficientNet-B4 [1], test accuracy about 98%
 training screen print：  
 ![image](https://github.com/SHENG-KAI-HUANG/BIRDS_525_SPECIES-Kaggle_CNN_Classifier/blob/main/result/EfficientNet-B4/EfficientNet-B4_TrainingResultScreenPrint.png)
   
-[1] Tan, Mingxing and Quoc V. Le. “EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks.” ArXiv abs/1905.11946 (2019): n. pag.
+[1] Tan, M. and Le, Q.V. (2019) EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks. Proceedings of the 36th International Conference on Machine Learning, ICML 2019, Long Beach, 9-15 June 2019, 6105-6114.
+http://proceedings.mlr.press/v97/tan19a.html
