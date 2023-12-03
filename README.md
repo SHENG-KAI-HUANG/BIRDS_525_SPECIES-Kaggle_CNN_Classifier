@@ -12,7 +12,8 @@ Birds are really cute right? If you're interested, please explore "BIRDS 525 SPE
 The dataset URL：https://www.kaggle.com/datasets/gpiosenka/100-bird-species/discussion/456917  
   
 Using EfficientNet-B4 [1], test accuracy about 98%  
-__Usage Trained model ： python ./code/tradition/classifier.py -n efficientnet-b4 -m /result/EfficientNet-B4/trainComplete.parm -i [single image path]__  
+__Usage Trained model ：  
+python ./code/tradition/classifier.py -n efficientnet-b4 -m /result/EfficientNet-B4/trainComplete.parm -i [single image path]__  
   
 Special thanks to Mr. Gerald Piosenka, who providing a high-quality bird dataset.
 > [1] Tan, M. and Le, Q.V. (2019) EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks. Proceedings of the 36th International Conference on Machine Learning, ICML 2019, Long Beach, 9-15 June 2019, 6105-6114.http://proceedings.mlr.press/v97/tan19a.html
